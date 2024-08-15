@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="PC_3bit_Sim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="PC_3bit_Sim" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="717978263fs"></ZoomEndTime>
+      <Cursor1Time time="509000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="183"></NameColumnWidth>
+      <ValueColumnWidth column_width="81"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/PC_3bit_Sim/Clk_period" type="other">
+      <obj_property name="ElementShortName">Clk_period</obj_property>
+      <obj_property name="ObjectShortName">Clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/JumpAddr_tb" type="array">
+      <obj_property name="ElementShortName">JumpAddr_tb[2:0]</obj_property>
+      <obj_property name="ObjectShortName">JumpAddr_tb[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/JumpFlag_tb" type="logic">
+      <obj_property name="ElementShortName">JumpFlag_tb</obj_property>
+      <obj_property name="ObjectShortName">JumpFlag_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/MemorySelect_tb" type="array">
+      <obj_property name="ElementShortName">MemorySelect_tb[2:0]</obj_property>
+      <obj_property name="ObjectShortName">MemorySelect_tb[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/RCA3/B" type="array">
+      <obj_property name="ElementShortName">B[2:0]</obj_property>
+      <obj_property name="ObjectShortName">B[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/RCA3/S" type="array">
+      <obj_property name="ElementShortName">S[2:0]</obj_property>
+      <obj_property name="ObjectShortName">S[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/Mux_2way_3bit0/adder_3bit" type="array">
+      <obj_property name="ElementShortName">adder_3bit[2:0]</obj_property>
+      <obj_property name="ObjectShortName">adder_3bit[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/Mux_2way_3bit0/jmp_adrs" type="array">
+      <obj_property name="ElementShortName">jmp_adrs[2:0]</obj_property>
+      <obj_property name="ObjectShortName">jmp_adrs[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/Reset_tb" type="logic">
+      <obj_property name="ElementShortName">Reset_tb</obj_property>
+      <obj_property name="ObjectShortName">Reset_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/Clk_tb" type="logic">
+      <obj_property name="ElementShortName">Clk_tb</obj_property>
+      <obj_property name="ObjectShortName">Clk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT_Slow_Clk/Clk_out" type="logic">
+      <obj_property name="ElementShortName">Clk_out</obj_property>
+      <obj_property name="ObjectShortName">Clk_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/Mux_2way_3bit0/output" type="array">
+      <obj_property name="ElementShortName">output[2:0]</obj_property>
+      <obj_property name="ObjectShortName">output[2:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/D_FF0/D" type="logic">
+      <obj_property name="ElementShortName">D</obj_property>
+      <obj_property name="ObjectShortName">D</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/D_FF0/Q" type="logic">
+      <obj_property name="ElementShortName">Q</obj_property>
+      <obj_property name="ObjectShortName">Q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/D_FF1/D" type="logic">
+      <obj_property name="ElementShortName">D</obj_property>
+      <obj_property name="ObjectShortName">D</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/D_FF1/Q" type="logic">
+      <obj_property name="ElementShortName">Q</obj_property>
+      <obj_property name="ObjectShortName">Q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/D_FF2/D" type="logic">
+      <obj_property name="ElementShortName">D</obj_property>
+      <obj_property name="ObjectShortName">D</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_3bit_Sim/UUT/D_FF2/Q" type="logic">
+      <obj_property name="ElementShortName">Q</obj_property>
+      <obj_property name="ObjectShortName">Q</obj_property>
+   </wvobject>
+</wave_config>

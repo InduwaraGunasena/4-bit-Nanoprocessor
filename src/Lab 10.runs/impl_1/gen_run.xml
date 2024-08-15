@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1686495871">
+  <File Type="PWROPT-DCP" Name="Register_Bank_pwropt.dcp"/>
+  <File Type="ROUTE-PWR" Name="Register_Bank_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Register_Bank.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="Register_Bank_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Register_Bank_reports.tcl"/>
+  <File Type="BG-DRC" Name="Register_Bank.drc"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Register_Bank_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Register_Bank_timing_summary_init.rpt"/>
+  <File Type="OPT-HWDEF" Name="Register_Bank.hwdef"/>
+  <File Type="OPT-DCP" Name="Register_Bank_opt.dcp"/>
+  <File Type="OPT-DRC" Name="Register_Bank_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="Register_Bank_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DRC" Name="Register_Bank_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Register_Bank_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Register_Bank_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Register_Bank_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Register_Bank_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Register_Bank_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Register_Bank_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Register_Bank_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Register_Bank_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Register_Bank_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="Register_Bank_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Register_Bank_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Register_Bank_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Register_Bank_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Register_Bank_drc_physopted.rpt"/>
+  <File Type="BG-BIT" Name="Register_Bank.bit"/>
+  <File Type="PHYSOPT-TIMING" Name="Register_Bank_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Register_Bank_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Register_Bank_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Register_Bank_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Register_Bank_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Register_Bank_drc_routed.pb"/>
+  <File Type="BITSTR-MSK" Name="Register_Bank.msk"/>
+  <File Type="ROUTE-DRC-RPX" Name="Register_Bank_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="Register_Bank.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Register_Bank_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-RBT" Name="Register_Bank.rbt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Register_Bank_methodology_drc_routed.rpx"/>
+  <File Type="BG-BIN" Name="Register_Bank.bin"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Register_Bank_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Register_Bank_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Register_Bank_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Register_Bank_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Register_Bank_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Register_Bank_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Register_Bank_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Register_Bank_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="Register_Bank.vdi"/>
+  <File Type="ROUTE-CLK" Name="Register_Bank_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Register_Bank_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Register_Bank_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Register_Bank_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Register_Bank_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Register_Bank_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="Register_Bank.nky"/>
+  <File Type="BITSTR-BMM" Name="Register_Bank_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="Register_Bank.mmi"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Register_Bank.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Register_Bank.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/new/Decoder_2_to_4.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 4/Lab 4.srcs/sources_1/new/Decoder_2_to_4.vhd"/>
+        <Attr Name="ImportTime" Val="1679388456"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Decoder_3_to_8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 4/Lab 4.srcs/sources_1/new/Decoder_3_to_8.vhd"/>
+        <Attr Name="ImportTime" Val="1679438702"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Reg.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 6/Lab 6.srcs/sources_1/new/Reg.vhd"/>
+        <Attr Name="ImportTime" Val="1682415616"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Register_Bank.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Add_Sub_4bit.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/D_FF.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 5/Lab 5.srcs/sources_1/new/D_FF.vhd"/>
+        <Attr Name="ImportTime" Val="1680882719"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/FA.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 3/Lab 3.srcs/sources_1/new/FA.vhd"/>
+        <Attr Name="ImportTime" Val="1678942580"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/HA.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 3/Lab 3.srcs/sources_1/new/HA.vhd"/>
+        <Attr Name="ImportTime" Val="1678906588"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Instruction_Dec.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/LUT_16_7.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 7/Lab 7.srcs/sources_1/new/LUT_16_7.vhd"/>
+        <Attr Name="ImportTime" Val="1683304507"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Mux_2_to_1.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Mux_2way_3bit.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Mux_2way_4bit.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Mux_8way_4bit.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PC_3bit.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Program_ROM.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/RCA_3.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/RCA_4.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 3/Lab 3.srcs/sources_1/new/RCA_4.vhd"/>
+        <Attr Name="ImportTime" Val="1678973297"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/Slow_Clk.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Lab 5/Lab 5.srcs/sources_1/new/Slow_Clk.vhd"/>
+        <Attr Name="ImportTime" Val="1680924047"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Nanoprocessor.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../Lab 4/Lab 4.srcs/sources_1/new/Decoder_3_to_8.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Register_Bank"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Downloads/Basys3Labs.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="C:/Users/Induwara/Downloads/Basys3Labs.xdc"/>
+        <Attr Name="ImportTime" Val="1686202629"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2018"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

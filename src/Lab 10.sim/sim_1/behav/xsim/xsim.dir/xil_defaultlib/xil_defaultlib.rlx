@@ -1,0 +1,25 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sim_1/new/Nanoprocessor_Sim.vhd,1686156195,vhdl,,,,nanoprocessor_sim,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/D_FF.vhd,1680882719,vhdl,,,,d_ff,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/Decoder_2_to_4.vhd,1679388456,vhdl,,,,decoder_2_to_4,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/Decoder_3_to_8.vhd,1679438702,vhdl,,,,decoder_3_to_8,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/FA.vhd,1678942580,vhdl,,,,fa,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/HA.vhd,1678906588,vhdl,,,,ha,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/LUT_16_7.vhd,1686212561,vhdl,,,,lut_16_7,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/RCA_4.vhd,1678973297,vhdl,,,,rca_4,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/Reg.vhd,1686111500,vhdl,,,,reg,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/imports/new/Slow_Clk.vhd,1686496088,vhdl,,,,slow_clk,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Add_Sub_4bit.vhd,1684842679,vhdl,,,,add_sub_4bit,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Instruction_Dec.vhd,1686216824,vhdl,,,,instruction_dec,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Mux_2_to_1.vhd,1685676141,vhdl,,,,mux_2_to_1,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Mux_2way_3bit.vhd,1685252179,vhdl,,,,mux_2way_3bit,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Mux_2way_4bit.vhd,1686166250,vhdl,,,,mux_2way_4bit,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Mux_8way_4bit.vhd,1686043910,vhdl,,,,mux_8way_4bit,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Nanoprocessor.vhd,1686241834,vhdl,,,,nanoprocessor,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/PC_3bit.vhd,1686145901,vhdl,,,,pc_3bit,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Program_ROM.vhd,1686466949,vhdl,,,,program_rom,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/RCA_3.vhd,1685601813,vhdl,,,,rca_3,,,,,,,,
+D:/programmes/Vivado/Lab 10/Lab 10.srcs/sources_1/new/Register_Bank.vhd,1686495691,vhdl,,,,register_bank,,,,,,,,

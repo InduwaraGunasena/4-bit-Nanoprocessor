@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sun Jun 11 20:34:39 2023
+# Process ID: 5560
+# Current directory: D:/programmes/Vivado/Lab 10/Lab 10.runs/impl_1
+# Command line: vivado.exe -log Register_Bank.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Register_Bank.tcl -notrace
+# Log file: D:/programmes/Vivado/Lab 10/Lab 10.runs/impl_1/Register_Bank.vdi
+# Journal file: D:/programmes/Vivado/Lab 10/Lab 10.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Register_Bank.tcl -notrace
