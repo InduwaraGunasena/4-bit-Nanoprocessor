@@ -3,7 +3,9 @@ This is a team project completed during the second semester at my university. In
 
 <p align="center">
 <img src="/images/Basys3.jpg" alt="Basys 3 Artix-7 FPGA Trainer Board" width="500"/>
+<br><em><sub>Resource: <a href="https://www.xilinx.com/content/dam/xilinx/imgs/prime/Basys3-Xilinx-1000x755.jpg">https://www.xilinx.com/content/dam/xilinx/imgs/prime/Basys3-Xilinx-1000x755.jpg</a></sub></em>
 </p>
+
 
 We used **Vivado** software to program this board. You can watch [this video](https://www.youtube.com/watch?app=desktop&v=6_GxkslqbcU) for guidance on setting up the software and gaining a basic understanding of it.
 
