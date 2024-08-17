@@ -38,7 +38,7 @@ The set of instructions supported by the nanoprocessor is provided in the follow
 ## Sample programs
 We tested two simple programs using this nanoprocessor:
 
-**1. Start from 10 and decrement to 0, one by one**
+### **1. Start from 10 and decrement to 0, one by one**
 The following table represents the assembly program, its machine code representation, and a brief description:
 | Instruction | Description | Machine Code (12-bit instruction) |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ The following table represents the assembly program, its machine code representa
 
 Watch [this short video]() to see how it works.
 
-**2. Sum all integers between 1 and 3**
+### **2. Sum all integers between 1 and 3**
 The following table represents the assembly program, its machine code representation, and a brief description:
 | Instruction | Description | Machine Code (12-bit instruction) |
 | --- | --- | --- |
