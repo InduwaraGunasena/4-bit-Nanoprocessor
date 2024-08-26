@@ -66,7 +66,7 @@ The following table represents the assembly program, its machine code representa
 | ADD  R7, R3;     | R7 ← R7 + R3   | 00 111 011 0000   |
 | JZR  R0, 0;   | If R0 = 0 jump to line 6    | 11 000 000 0111  |
 
-Watch [this short video]() to see how it works.
+Watch [this short video](https://youtube.com/shorts/7trFEclz7BQ?feature=share) to see how it works.
 
 ## Message from the developer
 I welcome contributions to this project. Feel free to fork the repository, add improvements, and fix bugs. However, **please ensure proper credit is given to the author**:grin:.
