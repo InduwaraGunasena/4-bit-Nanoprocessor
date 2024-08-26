@@ -51,7 +51,7 @@ The following table represents the assembly program, its machine code representa
 | JZR  R7, 7;  | If R7 = 0 jump to line 4 again ant stop executing programme   | 11 111 000 0100  |
 | JZR  R0, 3;  | If R0 = 0 jump to line 3   | 11 000 000 0011  |
 
-Watch [this short video]() to see how it works.
+Watch [this short video](https://youtube.com/shorts/prijFuS6uFY?feature=share) to see how it works.
 
 ### **2. Sum all integers between 1 and 3**
 The following table represents the assembly program, its machine code representation, and a brief description:
